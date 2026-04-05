@@ -56,8 +56,17 @@ index.php → Entry point (redirects to dashboard)
 - Ready for API integration and automation extension  
 - Demonstrates ability to build real, functional systems (not tutorial-based)
 
-## Screenshots
-(Add screenshots of dashboard, transaction pages, and customer management interface here)
+## 📷 Screenshots
+Dashboard
+Dashboard:(screenshots/dashboard.png)
+Add Hawala
+Add Hawala:(screenshots/add-hawala.png)
+Transactions
+Transactions: (screenshots/transactions.png)
+Hawala List
+Hawala List:(screenshots/list-hawala.png)
+Customers List
+Customers List:(screenshots/list-customer.png)
 
 ## Installation (Local Setup)
 1. Clone the repository:
